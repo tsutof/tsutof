@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working on Edge AI inference.
+- I've received the Jetson AI Specialist Certification from NVIDIA.
+
+<!--
 - I've received the TensorFlow Developer Certificate.  
 [![Certification Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27794313)](https://www.credential.net/7997b988-f79e-4b68-bea5-f1d9812fce61)
-- I've received the Jetson AI Specialist Certification from NVIDIA.
+-->
